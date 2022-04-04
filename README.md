@@ -2,6 +2,10 @@
 
 Sample code to display OSC logs from TidalCycles in openFrameworks.
 
+# env
+
+macOS Catalina
+
 # preparation
 
 After starting SuperDirt, execute the following code in SuperCollider.This will send TidalCycles OSC logs to port 2020 on localhost.
